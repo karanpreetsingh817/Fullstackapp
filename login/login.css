@@ -1,0 +1,53 @@
+body{
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+
+
+h2{
+    color:rgb(224, 180, 123);
+    
+    padding-left: 382px;
+    padding-right: 378px;
+    text-align: center;
+    
+}
+
+div{
+    width: 382px;  
+    
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    padding: 80px;  
+    background: #23463f;  
+    border-radius: 15px ;
+    
+}
+#name{  
+    background-color: aliceblue;
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#pass{
+    background-color: aliceblue;
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;
+}
+label{
+    height: 30px;
+   
+    color: black;
+}
+#sub{
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+    background-color: gray;
+    color:rgb(224, 180, 123)
+}
